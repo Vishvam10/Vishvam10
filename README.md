@@ -40,6 +40,7 @@
 
 <details>
     <summary><b>Frontend</b></summary>
+    <br>
     <details>
         <summary><b>Markup, Templating and Styling</b></summary>
         <div>
