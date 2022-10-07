@@ -53,8 +53,7 @@
             <img style="margin: 0.4rem 0rem 0rem 1rem;" src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454" alt="Pug Template">
             <img style="margin: 0.4rem 0rem 0rem 1rem;" src="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black" alt="Jinja Template">
         </div>
-        <br>
-    </details>
+   </details>
     <details>
         <summary><b>JavaScript Frameworks</b></summary>
         <div>        
@@ -102,7 +101,6 @@
 
 <br>
 
-    
 <details>
     <summary><b>Testing and Automation</b></summary>
     <div>
