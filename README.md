@@ -289,7 +289,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=Vishvam10&show_icons=true" 
         alt="Github Stats" style="height: 190px;">
     </a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishvam10">
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishvam10&layout=compact&card_width=250">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishvam10&layout=compact&card_width=250" 
         alt="Github Stats" style="height: 190px;">
     </a>
