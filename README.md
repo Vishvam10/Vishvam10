@@ -290,7 +290,7 @@
         alt="Github Stats" style="height: 190px;">
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishvam10&layout=compact&card_width=400" 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishvam10&layout=compact&card_width=250" 
         alt="Github Stats" style="height: 190px;">
     </a>
 </div>
