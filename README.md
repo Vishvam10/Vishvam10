@@ -282,6 +282,8 @@
 
 ## 👨‍💻 Stats For Nerds
 
+<br>
+
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 2rem;">
     <a href="https://github-profile-trophy.vercel.app/?username=Vishvam10&theme=juicyfresh&no-frame=true&column=4&&margin-w=20&no-bg=true">
         <img src="https://github-readme-stats.vercel.app/api?username=Vishvam10&show_icons=true" 
