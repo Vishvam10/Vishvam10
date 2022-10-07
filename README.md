@@ -285,11 +285,11 @@
 <br>
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 2rem;">
-    <a href="https://github-profile-trophy.vercel.app/?username=Vishvam10&theme=juicyfresh&no-frame=true&column=4&&margin-w=20&no-bg=true">
+    <a href="https://github-readme-stats.vercel.app/api?username=Vishvam10&show_icons=true">
         <img src="https://github-readme-stats.vercel.app/api?username=Vishvam10&show_icons=true" 
         alt="Github Stats" style="height: 190px;">
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishvam10">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishvam10&layout=compact&card_width=250" 
         alt="Github Stats" style="height: 190px;">
     </a>
