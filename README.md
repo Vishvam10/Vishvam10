@@ -1,4 +1,4 @@
-## 👋 Hi There !
+### 👋 Hi There !
 
 <br>
 
@@ -11,7 +11,7 @@
 
 <br>
 
-## 📲 How To Reach Me
+### 📲 How To Reach Me
 
 <br>
 
@@ -29,7 +29,7 @@
 <br>
 <br>
 
-## ⚡ My Tech Stack 
+### ⚡ My Tech Stack 
 
 <br>
 
@@ -280,7 +280,7 @@
 
 <br>
 
-## 👨‍💻 Stats For Nerds
+### 👨‍💻 Stats For Nerds
 
 <br>
 
