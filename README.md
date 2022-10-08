@@ -29,11 +29,21 @@
 <br>
 <br>
 
+### 🔥 Streak Stats
+
+<br>
+
+<div align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com?user=Vishvam10&border_radius=8&date_format=j%20M%5B%20Y%5D&currStreakLabel=0969da&fire=064b9f&ring=0969da">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Vishvam10&border_radius=8&date_format=j%20M%5B%20Y%5D&currStreakLabel=0969da&fire=064b9f&ring=0969da">
+  </a>
+</div>
+
 ### ⚡ My Tech Stack 
 
 <br>
 
-<details>
+<details open>
     <summary><b>Programming Languages</b></summary>
     <div>
         <br>
@@ -56,7 +66,7 @@
     <br>
 </details>
 
-<details>
+<details open>
     <summary><b>Frontend</b></summary>
     <br>
     <b>👉 Markup, Templating and Styling</b>
@@ -128,7 +138,7 @@
     <br>
 </details>
 
-<details>
+<details open>
     <summary><b>Backend</b></summary>
     <div>
         <br>
@@ -148,7 +158,7 @@
     <br>
 </details>
     
-<details>
+<details open>
     <summary><b>Databases</b></summary>
     <div>
         <br>
@@ -168,7 +178,7 @@
     <br>
 </details>
     
-<details>
+<details open>
     <summary><b>Testing and Automation</b></summary>
     <div>
         <br>
@@ -182,7 +192,7 @@
     <br>
 </details>
 
-<details>
+<details open>
     <summary><b>Machine Learning</b></summary>
     <div>
         <br>
@@ -280,20 +290,44 @@
 
 <br>
 
-### 👨‍💻 Stats For Nerds
+### 📊 Stats For Nerds
 
 <br>
+<details open>
+  <br>
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br>
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 2rem;">
+      <a href="https://github-readme-stats.vercel.app/api?username=Vishvam10&show_icons=true">
+          <img src="https://github-readme-stats.vercel.app/api?username=Vishvam10&show_icons=true" 
+          alt="Github Stats" style="height: 190px;">
+      </a>
+      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishvam10&layout=compact&card_width=250">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishvam10&layout=compact&card_width=250" 
+          alt="Github Stats" style="height: 190px;">
+      </a>
+  </div>
+</details>
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 2rem;">
-    <a href="https://github-readme-stats.vercel.app/api?username=Vishvam10&show_icons=true">
-        <img src="https://github-readme-stats.vercel.app/api?username=Vishvam10&show_icons=true" 
-        alt="Github Stats" style="height: 190px;">
+<details open>
+  <br>
+  <summary><b>💪 Recent GitHub Activity</b></summary>
+  <br>
+  <div>
+    <a href="https://activity-graph.herokuapp.com/graph?username=Vishvam10&bg_color=ffffff&color=979797&line=0969da&point=064b9f&area=true">
+      <img src="https://activity-graph.herokuapp.com/graph?username=Vishvam10&bg_color=ffffff&color=979797&line=0969da&point=064b9f&area=true"
+           alt="Github Streak Stats">
     </a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishvam10&layout=compact&card_width=250">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishvam10&layout=compact&card_width=250" 
-        alt="Github Stats" style="height: 190px;">
-    </a>
-</div>
+  </div>
+</details>
 
-<!-- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vishvam10&theme=juicyfresh&no-frame=true&column=4&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=Vishvam10&theme=juicyfresh&no-frame=true&column=4&&margin-w=20&no-bg=true) -->
+<details open>
+  <br>
+  <summary><b>🏆Github Profile Trophy</b></summary>
+  <br>
+  <div>
+    <a href="https://github-profile-trophy.vercel.app/?username=Vishvam10&theme=juicyfresh&no-frame=true&column=4&&margin-w=20&no-bg=true">
+      <img src="https://github-profile-trophy.vercel.app/?username=Vishvam10&theme=juicyfresh&no-frame=true&column=4&&margin-w=20&no-bg=true">
+    </a>
+  </div>
+</details>
