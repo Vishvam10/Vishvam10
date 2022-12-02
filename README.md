@@ -5,7 +5,7 @@
 - 📗 I'm a pre-final student pursuing 2 degrees at the same time :
   - A BSc. in Data Science and Programming from **IIT Madras** and
   - A BTech. in Computer Science from NIIT University
-- 👉 I have 1+ year of experience as a **Fullstack Developer**
+- 👉 I have 1.5+ years of experience as a **Fullstack Developer**
 - 📈 I’m currently exploring AI and ML 
 - 💬 Ask me about web development, python, automating stuff and anime
 
