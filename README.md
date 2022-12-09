@@ -298,17 +298,17 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br>
   <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 2rem;">
-<!--       <a href="https://github-readme-stats.vercel.app/api?username=Vishvam10&show_icons=true">
+      <a href="https://github-readme-stats.vercel.app/api?username=Vishvam10&show_icons=true">
           <img src="https://github-readme-stats.vercel.app/api?username=Vishvam10&show_icons=true" 
           alt="Github Stats" style="height: 190px;">
-      </a> -->
+      </a>
       <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishvam10&layout=compact&card_width=250">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishvam10&layout=compact&card_width=250" 
           alt="Github Stats" style="height: 190px;">
       </a>
   </div>
 </details>
-<!-- 
+
 <details open>
   <br>
   <summary><b>💪 Recent GitHub Activity</b></summary>
@@ -319,7 +319,7 @@
            alt="Github Streak Stats">
     </a>
   </div>
-</details> -->
+</details>
 
 <details open>
   <br>
