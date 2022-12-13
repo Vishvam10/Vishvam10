@@ -309,7 +309,7 @@
   </div>
 </details>
 
-<details open>
+<!-- <details open>
   <br>
   <summary><b>💪 Recent GitHub Activity</b></summary>
   <br>
@@ -319,7 +319,7 @@
            alt="Github Streak Stats">
     </a>
   </div>
-</details>
+</details> -->
 
 <details open>
   <br>
