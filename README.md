@@ -266,9 +266,6 @@
         src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" 
         alt="Netlify">
         <img style="margin: 0.4rem 0rem 0rem 1rem;"
-        src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" 
-        alt="Render">
-        <img style="margin: 0.4rem 0rem 0rem 1rem;"
         src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" 
         alt="Vercel">
         <img style="margin: 0.4rem 0rem 0rem 1rem;"
