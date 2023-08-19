@@ -66,7 +66,7 @@
     <br>
 </details>
 
-<details open>
+<details>
     <summary><b>Frontend</b></summary>
     <br>
     <b>👉 Markup, Templating and Styling</b>
@@ -138,7 +138,7 @@
     <br>
 </details>
 
-<details open>
+<details>
     <summary><b>Backend</b></summary>
     <div>
         <br>
@@ -158,7 +158,7 @@
     <br>
 </details>
     
-<details open>
+<details>
     <summary><b>Databases</b></summary>
     <div>
         <br>
@@ -178,7 +178,7 @@
     <br>
 </details>
     
-<details open>
+<details>
     <summary><b>Testing and Automation</b></summary>
     <div>
         <br>
@@ -192,7 +192,7 @@
     <br>
 </details>
 
-<details open>
+<details>
     <summary><b>Machine Learning</b></summary>
     <div>
         <br>
