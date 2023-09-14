@@ -33,11 +33,7 @@
 
 <br>
 
-<div align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com?user=Vishvam10&border_radius=8&date_format=j%20M%5B%20Y%5D&currStreakLabel=0969da&fire=064b9f&ring=0969da">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Vishvam10&border_radius=8&date_format=j%20M%5B%20Y%5D&currStreakLabel=0969da&fire=064b9f&ring=0969da">
-  </a>
-</div>
+ [![Vishvam GitHub Streak](https://streak-stats.demolab.com?user=Vishvam10&theme=transparent&border_radius=4)](https://git.io/streak-stats) 
 
 ### ⚡ My Tech Stack 
 
@@ -294,16 +290,11 @@
   <br>
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br>
-  <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 2rem;">
-      <a href="https://github-readme-stats.vercel.app/api?username=Vishvam10&show_icons=true">
-          <img src="https://github-readme-stats.vercel.app/api?username=Vishvam10&show_icons=true" 
-          alt="Github Stats" style="height: 190px;">
-      </a>
-      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishvam10&layout=compact&card_width=250">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishvam10&layout=compact&card_width=250" 
-          alt="Github Stats" style="height: 190px;">
-      </a>
-  </div>
+      
+  ![Vishvam's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishvam10&theme=transparent&show_icons=true)
+
+  ![Vishvam's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishvam10&layout=compact&theme=transparent)
+  
 </details>
 
 <!-- <details open>
@@ -318,7 +309,7 @@
   </div>
 </details> -->
 
-<details open>
+<details close>
   <br>
   <summary><b>🏆Github Profile Trophy</b></summary>
   <br>
