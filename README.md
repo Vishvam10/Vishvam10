@@ -5,7 +5,7 @@
 - 📗 I'm a final year student pursuing 2 degrees at the same time :
   - A BSc. in Data Science and Programming from **IIT Madras** and
   - A BTech. in Computer Science from NIIT University
-- 👉 I have 2+ years of internship experience as a **Fullstack Developer**
+- 👉 I have 1.5+ years of internship experience as a **Fullstack Developer**
 - 📈 I’m currently exploring the field of AI, ML, Deep Learning and Reinforcement Learning
 - 💬 Ask me about web development, machine learning, python, automating stuff and anime
 
