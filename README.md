@@ -205,6 +205,12 @@
         src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" 
         alt="Matplotlib">
         <img style="margin: 0.4rem 0rem 0rem 1rem;"
+        src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" 
+        alt="PyTorch">
+        <img style="margin: 0.4rem 0rem 0rem 1rem;"
+        src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" 
+        alt="TensorFlow">
+        <img style="margin: 0.4rem 0rem 0rem 1rem;"
         src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" 
         alt="Jupyter Notebook">
     </div>
