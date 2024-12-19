@@ -15,7 +15,7 @@
 
 <br>
 
-<a href="www.linkedin.com/in/s-vishvam">
+<a href="https://www.linkedin.com/in/s-vishvam">
     <img style="margin: 0.4rem 0rem 0rem 1rem;"
     src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
     alt="Linkedin">
