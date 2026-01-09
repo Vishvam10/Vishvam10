@@ -325,11 +325,9 @@ Ask me about ML, python, web dev and anime
     </div>
 </details>
 
-### Stats For Nerds
-
-<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&fontFamily=Inter&preferLogin=false">    
+<!-- <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&fontFamily=Inter&preferLogin=false">    
   <img alt="Vishvam10's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Vishvam10?cardType=level&theme=tokyonight&fontFamily=Inter&preferLogin=false" />  
-</a>
+</a> -->
 
 <!-- <details>
   <summary><b>GitHub Profile Stats</b></summary>
