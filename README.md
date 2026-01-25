@@ -8,8 +8,8 @@ Ask me about ML, python, web dev and anime
 
 ### A Bit About My Work
 
-- Built and kept **backend services alive for AI/ML products**, getting my hands dirty with LLMs—fine-tuning, evaluating, and poking them until they behaved.
-- Designed (and implemented) a scalable, microservice-based AI/ML platform with `gRPC` and `REST` APIs, complete with granular rate limiting, auth, analytics and cost tracking.
+- Built and kept **backend services alive for AI/ML products**, getting my hands dirty with LLMs : fine-tuning, evaluating, and poking them until they behaved
+- Designed (and implemented) a scalable, microservice-based AI/ML platform with `gRPC` and `REST` APIs, complete with granular rate limiting, auth, analytics and cost tracking
 
 ### How To Reach Me
 
