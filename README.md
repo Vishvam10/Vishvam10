@@ -2,7 +2,7 @@
 
 ## Hi, I’m Vishvam 👋
 
-I’m a **ML Engineer 1 with ~2.5 years of experience**, focused on ML systems, backend engineering, and LLMs. 
+I’m an **ML Engineer 1 with ~2.5 years of experience**, focused on ML systems, backend engineering, and LLMs. 
 I enjoy shipping real systems, exploring library internals, and tinkering with new languages and homelab setups. 
 Ask me about ML, python, web dev and anime
 
