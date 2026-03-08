@@ -58,9 +58,6 @@ Ask me about ML, python, web dev and anime
         src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"
         alt="Java">
         <img style="margin: 0.4rem 0rem 0rem 1rem;"
-        src="https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white"
-        alt="Zig">
-        <img style="margin: 0.4rem 0rem 0rem 1rem;"
         src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"
         alt="Rust">
     </div>
